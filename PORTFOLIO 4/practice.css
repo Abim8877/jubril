@@ -1,0 +1,126 @@
+.sign{
+    color: white;
+    background-color: red;
+    padding: 0px 15px 0px 15px;
+    border-radius: 5px;
+}
+.containers{margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.items{color: black;
+    background-color: white;
+    transition: 0.5s ease-in-out;
+}
+.items:hover{color: white;
+    background-color: red;
+}
+span{
+    color: red;
+}
+.container{display: flex;
+flex-direction: column;
+}
+.item{
+    width: 100px;
+    margin: 0px 0px 0px 0px;
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+.item:hover{color: white;
+    background-color: red;
+}
+.second{margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.sec{
+    width: 100px;
+    margin: 0px 0px 0px 50px ;
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+.sec:hover{color: white;
+    background-color: red;
+}
+.third{margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.thi{
+    width: 100px;
+    margin: 0px 0px 0px 50px;
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+.thi:hover{color: white;
+    background-color: red;
+}
+.fourth{margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.four{
+    width: 100px;
+    margin: 0px 0px 0px 50px ;  
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+.four:hover{color: white;
+    background-color: red;
+}
+.fifth{margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.fif{
+    width: 100px;
+    margin: 0px 0px 0px 50px ; 
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+.fif:hover{color: white;
+    background-color: red;
+}
+.pot,.fork,.knive{margin-left: 0px;
+    width: 150px;
+    height: 200px;
+    filter: blur(2px);
+}
+.cup{
+    width: 150px;
+    height: 200px;
+    filter: blur(2px);
+}
+.spoon{margin-left: 0px;
+    width: 150px;
+    height: 200px;
+}
+.takeall{
+    display: flex;
+    justify-content: flex-start;
+}
+
+strong{margin-top: 5px;
+    margin-right: 800px;
+    color: red;}
+.sea{border-radius: 5px;
+    background-color: white;
+}
+.str{
+    display: flex;
+    flex-direction: row;
+}
+.sub{
+    background-color: orangered;
+    color: white;
+    border-radius: 3px;
+}
+.that{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-color: #7f879e;
+}
